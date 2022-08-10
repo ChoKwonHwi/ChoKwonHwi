@@ -43,10 +43,7 @@ I've used at least once. <br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-#F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-
+<img src="https://img.shields.io/badge/Jupyter-#F37626?style=flat-square&logo=Jupyter&logoColor=white"/><br>
 ## 😁 Github Stats  
 <table width="100%">
  <tr>

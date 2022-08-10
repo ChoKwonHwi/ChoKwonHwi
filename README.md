@@ -51,7 +51,7 @@ I've used at least once. <br>
    <img src="https://github-readme-stats.vercel.app/api?username=ChoKwonHwi&hide_border=false&theme=github_dark" width="400">
   </td>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-won&hide_border=false&theme=github_dark&layout=compact" width="400">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoKwonHwi&hide_border=false&theme=github_dark&layout=compact" width="400">
   </td>
  </tr>
 </table>  

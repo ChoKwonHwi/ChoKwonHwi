@@ -6,9 +6,10 @@ I am a student studying computer science.<br>
 
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering, 3th Grade
+- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 3th Grade
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ... 
+
 - HUFS Data Scientis HUFStudy (2022.06~ )
 - HUFS PNP (2022.03~)
 

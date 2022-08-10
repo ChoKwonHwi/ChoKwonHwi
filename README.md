@@ -49,10 +49,10 @@ I've used at least once. <br>
 <table width="100%">
  <tr>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api?username=ChoKwonHwi&hide_border=false&theme=github_radical" width="400">
+   <img src="https://github-readme-stats.vercel.app/api?username=ChoKwonHwi&hide_border=false&theme=tokyonight" width="400">
   </td>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoKwonHwi&hide_border=false&theme=github_onedark&layout=compact" width="400">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoKwonHwi&hide_border=false&theme=tokyonight&layout=compact" width="400">
   </td>
  </tr>
 </table>  

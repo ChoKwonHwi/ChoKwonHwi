@@ -13,12 +13,9 @@ I am a student studying computer science.<br>
 
 ## 📫 How to reach me
 <a href="mailto:dustin8335@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/uomnf97/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/juwonjuho/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/%EA%B9%80%EC%A3%BC%EC%9B%90/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://velog.io/@uonmf97" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
-<a href="https://velog.io/@uomnf97_web" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
-
+<a href="https://www.facebook.com/kwonhwi.cho/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/kwonhwicho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://velog.io/@ckh0824" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 
  
 ## 🔥 Experience
@@ -33,13 +30,9 @@ I am a student studying computer science.<br>
 - PNP Embbeded Computer Programming Team Leader [18.06~ 19.12]
 - 2018 the World Embbeded Software Contest final in COEX [18.06~ 19.12]
 
-## 🏆 Awards
-- 15TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
-- 16TH TOPCIT TOP 10% Scorer in HUFS 2021 Winter
-- 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (31 teams)
-- Best Paper in 9th International Conference on Advanced Engineering and ICT-Convergence (ICAEIC-2022)
 
-## 🛠 Skills
+## 🛠 Language & Tools
+I've used at least once
 <center>
  <table width="100%">
  

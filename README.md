@@ -42,7 +42,7 @@ I've used at least once. <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studid&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-#3DDC84?style=flat-square&logo=Android Studid&logoColor=white"/>
 ## 😁 Github Stats  
 <table width="100%">
  <tr>

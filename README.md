@@ -58,4 +58,6 @@ I've used at least once. <br>
 </table>  
 
 ## BOJ Badge
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokh0824)](https://solved.ac/chokh0824)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokh0824)](https://solved.ac/chokh0824)

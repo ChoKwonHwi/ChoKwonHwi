@@ -10,6 +10,7 @@ I am a student studying computer science.<br>
 
 ## 🔭 I’m currently working on ...
 - HUFS Data Scientis HUFStudy (2022.06~ )
+- HUFS PNP (2022.03~)
 
 ## 📫 How to reach me
 <a href="mailto:dustin8335@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -43,6 +44,7 @@ I've used at least once. <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-#F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+
 ## 😁 Github Stats  
 <table width="100%">
  <tr>
@@ -54,3 +56,6 @@ I've used at least once. <br>
   </td>
  </tr>
 </table>  
+
+## BOJ Badge
+[!(http://mazassumnida.wtf/api/v2/generate_badge?boj=chokh0824)](https://solved.ac/chokh0824)

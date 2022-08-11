@@ -49,4 +49,4 @@ I've used at least once. <br>
 ## BOJ Badge
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokh0824)](https://solved.ac/chokh0824)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokh0824)](https://solved.ac/profile/chokh0824)

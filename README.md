@@ -15,13 +15,12 @@ I am a student studying computer science.<br>
 
 ## 📫 Contact to me
 
+<a href="https://www.linkedin.com/in/kwonhwi-cho-79b148257/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://velog.io/@ckh0824" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 <a href="mailto:dustin8335@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/kwonhwi.cho/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/kwonhwicho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="http://qr.kakao.com/talk/XtAseH17U_uovEDVK6q.R4bfyHg-" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
-<a href="https://velog.io/@ckh0824" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
-
-<a href="https://www.linkedin.com/in/kwonhwi-cho-79b148257/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 ## 🛠 Skills & Tools
 I've used at least once. <br>

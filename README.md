@@ -6,7 +6,7 @@ I am a student studying computer science.<br>
 
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 3th Grade
+- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 4th Grade
 
 ## 🔭 I’m currently working on ... 
 - HUFS HAI Lab Intern (2023.04~)

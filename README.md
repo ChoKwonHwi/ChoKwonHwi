@@ -9,10 +9,10 @@ I am a student studying computer science.<br>
 - Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 3th Grade
 
 ## 🔭 I’m currently working on ... 
+- HUFS HAI Lab Intern (2023.04~)
 - HUFS Data Scientis HUFStudy (2022.06 ~ 2022.08)
 - HUFS Software Volunteer(2022.03~)
 - HUFS PNP (2022.03~)
-- HUFS HAI Lab Intern (2023.04~)
 
 ## 📫 Contact to me
 

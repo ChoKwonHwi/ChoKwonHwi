@@ -13,7 +13,7 @@ I am a student studying computer science.<br>
 ## 🔭 I’m currently working on ... 
 - HUFS HAI Lab Intern (2023.04~)
 - HUFS Data Scientist HUFStudy (2022.06 ~ 2022.08)
-- HUFS Software Volunteer(2022.03~)
+- HUFS Software Volunteer(2022.03 ~ 2023.08)
 - HUFS PNP (2022.03~)
 
 ## 📫 Contact to me

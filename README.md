@@ -8,11 +8,13 @@ I am a student studying computer science.<br>
 
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, 4th Grade
+- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, Graduate
+- Hanyang University, Artificial Intelligence, Master course
 
 
 ## 🔭 I’m currently working on ... 
-- HUFS HAI Lab Intern (2023.04~2023.12)
+- Hanyang University CNA Lab Master course (2024.01 ~ )
+- HUFS HAI Lab Intern (2023.04 ~ 2023.12)
 - HUFS Data Scientist HUFStudy (2022.06 ~ 2022.08)
 - HUFS Software Volunteer(2022.03 ~ 2023.08)
 - HUFS PNP (2022.03~2023.12)
@@ -20,7 +22,7 @@ I am a student studying computer science.<br>
 ## 📫 Contact to me
 
 <a href="https://www.linkedin.com/in/kwonhwi-cho-79b148257/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://velog.io/@ckh0824" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@chokh0824" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 <a href="mailto:dustin8335@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/kwonhwi.cho/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/kwonhwicho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>

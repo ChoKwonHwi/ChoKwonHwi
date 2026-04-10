@@ -4,16 +4,16 @@
 
 # Cho Kwon Hwi
 Hi there! Welcome to my Github!<br>
-I am a student studying computer science.<br>
+I am a student studying computer science / Artificial Intelligence.<br>
 
 
 ## 🎓 Education
 - Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, Graduate
-- Hanyang University, Artificial Intelligence, Master course
+- Hanyang University, Artificial Intelligence, Master course, Graduate
 
 
 ## 🔭 I’m currently working on ... 
-- Hanyang University CNA Lab Master course (2024.01 ~ )
+- Hanyang University CNA Lab Master course (2024.01 ~ 2026.02)
 - HUFS HAI Lab Intern (2023.04 ~ 2023.12)
 - HUFS Data Scientist HUFStudy (2022.06 ~ 2022.08)
 - HUFS Software Volunteer(2022.03 ~ 2023.08)

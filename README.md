@@ -13,6 +13,7 @@ I am a student studying computer science / Artificial Intelligence.<br>
 
 
 ## 🔭 I’m currently working on ... 
+- NVIDIA AI CAMPUS (2026.10 ~ )
 - Hanyang University CNA Lab Master course (2024.01 ~ 2026.02)
 - HUFS HAI Lab Intern (2023.04 ~ 2023.12)
 - HUFS Data Scientist HUFStudy (2022.06 ~ 2022.08)
@@ -52,7 +53,3 @@ I've used at least once. <br>
   </td>
  </tr>
 </table>  
-
-## BOJ Badge
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokh0824)](https://solved.ac/chokh0824)

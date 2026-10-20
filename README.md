@@ -23,8 +23,7 @@ I am a student studying computer science / Artificial Intelligence.<br>
 
 ## 🔭 Publishing 
 - Cho, K. H., Jeon, J., Kim, S., Kim, Y. S., Kim, Y. M., Kim, M. K., ... & Lee, J. M. (2026). Attention-enhanced segmentation network for automated cerebral microbleed detection and burden assessment. Frontiers in Neuroscience, 20, 1743039.
-- Deep learning for FDG-PET classification in patients with Alzheimer’s disease, dementia with Lewy bodies and their mixed pathology: a solution for diagnostic heterogeneity
-  - Kim, S., Jeon, S., Cho, K., Kang, S., Bang, S., Ye, B. S., & Lee, J. M. (2026). Deep learning for FDG-PET classification in patients with Alzheimer’s disease, dementia with Lewy bodies and their mixed pathology: a solution for diagnostic heterogeneity. Frontiers in Aging Neuroscience, 18, 1780858.
+- Kim, S., Jeon, S., Cho, K., Kang, S., Bang, S., Ye, B. S., & Lee, J. M. (2026). Deep learning for FDG-PET classification in patients with Alzheimer’s disease, dementia with Lewy bodies and their mixed pathology: a solution for diagnostic heterogeneity. Frontiers in Aging Neuroscience, 18, 1780858.
 
 
 ## 📫 Contact to me

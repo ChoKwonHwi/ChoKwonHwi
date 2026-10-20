@@ -20,6 +20,13 @@ I am a student studying computer science / Artificial Intelligence.<br>
 - HUFS Software Volunteer(2022.03 ~ 2023.08)
 - HUFS PNP (2022.03~2023.12)
 
+
+## 🔭 Publishing 
+- Cho, K. H., Jeon, J., Kim, S., Kim, Y. S., Kim, Y. M., Kim, M. K., ... & Lee, J. M. (2026). Attention-enhanced segmentation network for automated cerebral microbleed detection and burden assessment. Frontiers in Neuroscience, 20, 1743039.
+- Deep learning for FDG-PET classification in patients with Alzheimer’s disease, dementia with Lewy bodies and their mixed pathology: a solution for diagnostic heterogeneity
+  - Kim, S., Jeon, S., Cho, K., Kang, S., Bang, S., Ye, B. S., & Lee, J. M. (2026). Deep learning for FDG-PET classification in patients with Alzheimer’s disease, dementia with Lewy bodies and their mixed pathology: a solution for diagnostic heterogeneity. Frontiers in Aging Neuroscience, 18, 1780858.
+
+
 ## 📫 Contact to me
 
 <a href="https://www.linkedin.com/in/kwonhwi-cho-79b148257/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
